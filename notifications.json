@@ -13,7 +13,7 @@
       "target_version": "all"
     },
     {
-      "id": 2,
+      "id": 8,
       "title": "🔔 Test Bildirimi",
       "message": "Bu bir test bildirimi. Sistem düzgün çalışıyor!",
       "type": "info",
@@ -23,7 +23,7 @@
       "target_version": "all"
     },
     {
-      "id": 3,
+      "id": 7,
       "title": "🚀 Hoş Geldin!",
       "message": "waynotdas'ın Soul Cracker projesi! Uzaktan bildirim sistemi test ediliyor!",
       "type": "game",
